@@ -1,0 +1,6 @@
+print("Hello"+"world!")
+print("Hello"+" "+"world!")
+print(" ")
+print(len("Hello world!"))
+print(len("Hello") + len("World!"))
+print(len("Hel" + "lo!"))
